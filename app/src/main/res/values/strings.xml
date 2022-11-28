@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Yol Harakati Qoidalari App</string>
+    <string name="like">like</string>
+    <string name="malumot">Malumot</string>
+    <string name="home">Home</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="yo_l_belgilari">Yo\'l Belgilari</string>
+    <string name="todo">TODO</string>
+    <string name="shlagbaunli_temir_yo_l_nkesishmasi">Shlagbaunli temir yo\'l \nkesishmasi</string>
+    <string name="custom_text">Custom Text</string>
+    <string name="yoq">Yoq</string>
+    <string name="hello_first_fragment">hello_first_fragment</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="bu_ilova_developer_madaminov_behzod_tomonidan_ishlab_chiqildi_foydasi_tekkanidan_hursandman">Bu ilova developer Madaminov Behzod tomonidan ishlab chiqildi Foydasi tekkanidan hursandman</string>
+    <string name="yo_l_belgisi_qo_shish">Yo\'l belgisi qo\'shish</string>
+    <string name="yo_l_belgisining_nomi">Yo\'l belgisining nomi</string>
+    <string name="yo_l_belgisining_rasmini_qo_shish_uchun_rasm_ustiga_bosing">Yo’l belgisining rasmini qo’shish uchun rasm ustiga bosing</string>
+    <string name="yo_l_belgisini_to_liq_tarifi">Yo\'l belgisini to\'liq tarifi</string>
+    <string name="yo_l_harakati_qoidalari_n_helper_app">YO\'L HARAKATI QOIDALARI \n HELPER APP</string>
+    <string name="saqlash">Saqlash</string>
+    <string name="ogohlantiruvchi">Ogohlantiruvchi</string>
+    <string name="yol_harakati_n_qoidalari">Yol Harakati \n Qoidalari</string>
+</resources>
